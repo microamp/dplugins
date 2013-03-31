@@ -1,20 +1,18 @@
 __dplugins__ (dynamic plugins)
-
-* * *
+==============================
 
 Individual Python plugins found in subdirectories in the 'plugins' directory
 will be dynamically loaded when the application first starts up. Each tab and
 button correspond to a subdirectory and a Python plugin under it respectively.
 
-* * *
-
-Requirements:
+Requirements
+------------
 * Python: 2.7.3
 * wxPython: 2.8
 
-* * *
-
-Usage: `python dplugins.py`
+Usage
+-----
+`python dplugins.py`
 
 * * *
 
